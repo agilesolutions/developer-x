@@ -2,7 +2,7 @@
 
 ## Setting up
 
-* log on to [Katacoda course pages](https://www.katacoda.com/courses/istio/deploy-istio-on-kubernetes)
+* log on to [Play with kubernetes](https://labs.play-with-k8s.com/)
 * git clone https://github.com/agilesolutions/developer-x
 * cd developer-x
 
