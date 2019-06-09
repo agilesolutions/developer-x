@@ -1,5 +1,11 @@
 # Developer x
 
+## Setting up
+
+* log on to [Katacoda course pages](https://www.katacoda.com/courses/istio/deploy-istio-on-kubernetes)
+* git clone https://github.com/agilesolutions/developer-x
+* cd developer-x
+
 ## Run jenkins in container and bind host docker
 
 * create directory /jenkins
