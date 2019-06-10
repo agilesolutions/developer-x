@@ -28,3 +28,10 @@ Which developer still needs CI/CD pipelines for doing his integration and delive
 * [Multi-Stage Builds With Docker](https://dzone.com/articles/multi-stage-builds-with-docker)
 * [Specific for development purposes](https://dev.to/brpaz/using-docker-multi-stage-builds-during-development-35bc)
 * [Building complete pipelines including sonar scans](https://medium.com/capital-one-tech/multi-stage-builds-and-dockerfile-b5866d9e2f84)
+
+## customizing Jenkins
+
+* Goto [Play with Docker ](https://labs.play-with-docker.com/)
+* docker run -d --name jenkins --user root -p 8080:8080 -v /var/run/docker.sock:/var/run/docker.sock agilesolutions/jenkins
+* docker logs -f jenkins
+* docker exec -ti jenkins bash
