@@ -27,3 +27,4 @@ Which developer still needs CI/CD pipelines for doing his integration and delive
 * [A Dockerfile for Maven-Based GitHub Projects](https://dzone.com/articles/a-dockerfile-for-maven-based-github-projects)
 * [Multi-Stage Builds With Docker](https://dzone.com/articles/multi-stage-builds-with-docker)
 * [Specific for development purposes](https://dev.to/brpaz/using-docker-multi-stage-builds-during-development-35bc)
+* [Building complete pipelines including sonar scans](https://medium.com/capital-one-tech/multi-stage-builds-and-dockerfile-b5866d9e2f84)
