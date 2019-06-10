@@ -12,6 +12,5 @@ import ch.agilesolutions.data.rest.model.Person;
 public interface PersonRepository extends PagingAndSortingRepository<Person, Long> {
 
 	List<Person> findByLastName(@Param("name") String name);
-	
 
 }
