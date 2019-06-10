@@ -15,9 +15,10 @@ Which developer still needs CI/CD pipelines for doing his integration and delive
 * Goto [Play with Docker ](https://labs.play-with-docker.com/)
 * git clone https://github.com/agilesolutions/developer-x.git
 * cd developer-x/cd-build
-* docker build . -t agilesolutions/myapp
+* docker build -t agilesolutions/myapp .
 * docker login
 * docker push
+* docker build --target package -t agilesolutions/myapp . (if you want stop at a specific stage...)
 
 ## Reading more on DZone
 
