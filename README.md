@@ -35,3 +35,7 @@ Which developer still needs CI/CD pipelines for doing his integration and delive
 * docker run -d --name jenkins --user root -p 8080:8080 -v /var/run/docker.sock:/var/run/docker.sock agilesolutions/jenkins
 * docker logs -f jenkins
 * docker exec -ti jenkins bash
+
+## Kubernetes plugin Jenkins
+
+# [Kubernetes plugin](https://github.com/jenkinsci/kubernetes-plugin)
