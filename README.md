@@ -7,6 +7,7 @@ Which developer still needs CI/CD pipelines for doing his integration and delive
 * check out your branch
 * apply your logic and changes
 * run the multi-stage build
+* tag and push your new image to the central registry
 * share you image with the test community to be spinned of on a k8s cluster
 * dome
 
@@ -14,7 +15,7 @@ Which developer still needs CI/CD pipelines for doing his integration and delive
 
 * Goto [Play with Docker ](https://labs.play-with-docker.com/)
 * git clone https://github.com/agilesolutions/developer-x.git
-* cd developer-x/cd-build
+* cd developer-x
 * docker build -t agilesolutions/myapp .
 * docker login
 * docker push
