@@ -2,8 +2,6 @@
 FROM alpine/git as clone
 WORKDIR /app
 RUN git clone https://github.com/agilesolutions/developer-x.git
-WORKDIR /app/developer-x
-RUN git pull
 
 FROM maven:3.5-jdk-8-alpine as package
 WORKDIR /app

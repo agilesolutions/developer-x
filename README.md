@@ -19,6 +19,7 @@ Which developer still needs CI/CD pipelines for doing his integration and delive
 * docker login
 * docker push
 * docker build --target package -t agilesolutions/myapp . (if you want stop at a specific stage...)
+* docker image prune (clean up all dangling images)
 
 ## Reading more on DZone
 
