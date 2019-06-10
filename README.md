@@ -2,7 +2,7 @@
 
 ## Setting up
 
-* log on to [Play with kubernetes](https://labs.play-with-k8s.com/)
+* log on to [Play with Docker](https://labs.play-with-docker.com/)
 * git clone https://github.com/agilesolutions/developer-x
 * cd developer-x
 
