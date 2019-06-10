@@ -18,3 +18,8 @@ Which developer still needs CI/CD pipelines for doing his integration and delive
 * docker build . -t agilesolutions/myapp
 * docker login
 * docker push
+
+## Reading more on DZone
+
+* [A Dockerfile for Maven-Based GitHub Projects](https://dzone.com/articles/a-dockerfile-for-maven-based-github-projects)
+* [Multi-Stage Builds With Docker](https://dzone.com/articles/multi-stage-builds-with-docker)
