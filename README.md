@@ -51,3 +51,11 @@ Which developer still needs CI/CD pipelines for doing his integration and delive
 * [component scanning](https://www.springboottutorial.com/spring-boot-and-component-scan)
 * [JavaConfig](https://docs.spring.io/spring-javaconfig/docs/1.0.0.M4/reference/html/ch02s02.html)
 # [@ConfigurationProperties](https://www.baeldung.com/configuration-properties-in-spring-boot)
+
+## Using multiple WebSecurityConfigurerAdapter with different AuthenticationProviders
+
+* [Using multiple WebSecurityConfigurerAdapter with different AuthenticationProviders (basic auth for API and LDAP for web app)](https://stackoverflow.com/questions/40258583/using-multiple-websecurityconfigureradapter-with-different-authenticationprovide)
+* [Spring Security Architecture](https://spring.io/guides/topicals/spring-security-architecture/)
+* [Java Config](https://docs.spring.io/spring-security/site/docs/current/reference/html/jc.html)
+* [Multiple Entry Points in Spring ](https://www.baeldung.com/spring-security-multiple-entry-points)
+* [Spring Security and Multiple Filter Chains](http://blog.florian-hopf.de/2017/08/spring-security.html)
