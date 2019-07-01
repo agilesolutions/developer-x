@@ -59,3 +59,4 @@ Which developer still needs CI/CD pipelines for doing his integration and delive
 * [Java Config](https://docs.spring.io/spring-security/site/docs/current/reference/html/jc.html)
 * [Multiple Entry Points in Spring ](https://www.baeldung.com/spring-security-multiple-entry-points)
 * [Spring Security and Multiple Filter Chains](http://blog.florian-hopf.de/2017/08/spring-security.html)
+# [Spring Security for a REST API](https://www.baeldung.com/securing-a-restful-web-service-with-spring-security)
