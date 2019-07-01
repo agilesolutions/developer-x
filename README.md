@@ -48,3 +48,5 @@ Which developer still needs CI/CD pipelines for doing his integration and delive
 * [Configuration with Spring Boot](https://www.baeldung.com/spring-boot-custom-auto-configuration)
 * [AutoConfiguration again](https://www.springboottutorial.com/spring-boot-auto-configuration)
 * [And finally this on autoconfiguration](https://aboullaite.me/the-magic-behind-the-magic-spring-boot-autoconfiguration/)
+* [component scanning](https://www.springboottutorial.com/spring-boot-and-component-scan)
+* [JavaConfig](https://docs.spring.io/spring-javaconfig/docs/1.0.0.M4/reference/html/ch02s02.html)
