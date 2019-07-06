@@ -46,6 +46,7 @@ Which developer still needs CI/CD pipelines for doing his integration and delive
 * [Spring Core Annotations](https://www.baeldung.com/spring-core-annotations)
 * [Spring Bean Scopes](https://www.baeldung.com/spring-bean-scopes)
 * [Spring Profiles](https://www.baeldung.com/spring-profiles)
+* [Spring component stereotypes](https://www.baeldung.com/spring-component-repository-service)
 * [Configuration with Spring Boot](https://www.baeldung.com/spring-boot-custom-auto-configuration)
 * [AutoConfiguration again](https://www.springboottutorial.com/spring-boot-auto-configuration)
 * [And finally this on autoconfiguration](https://aboullaite.me/the-magic-behind-the-magic-spring-boot-autoconfiguration/)
