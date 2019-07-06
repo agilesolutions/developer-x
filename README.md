@@ -42,6 +42,7 @@ Which developer still needs CI/CD pipelines for doing his integration and delive
 
 ## The best reads on SpringBoot essentials
 
+* [Learn Spring with Baeldung](https://www.baeldung.com/category/spring/)
 * [Spring Autowire](https://www.baeldung.com/spring-autowire)
 * [Spring Core Annotations](https://www.baeldung.com/spring-core-annotations)
 * [Spring Bean Scopes](https://www.baeldung.com/spring-bean-scopes)
