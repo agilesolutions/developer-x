@@ -45,12 +45,13 @@ Which developer still needs CI/CD pipelines for doing his integration and delive
 * [Spring Autowire](https://www.baeldung.com/spring-autowire)
 * [Spring Core Annotations](https://www.baeldung.com/spring-core-annotations)
 * [Spring Bean Scopes](https://www.baeldung.com/spring-bean-scopes)
+* [Spring Profiles](https://www.baeldung.com/spring-profiles)
 * [Configuration with Spring Boot](https://www.baeldung.com/spring-boot-custom-auto-configuration)
 * [AutoConfiguration again](https://www.springboottutorial.com/spring-boot-auto-configuration)
 * [And finally this on autoconfiguration](https://aboullaite.me/the-magic-behind-the-magic-spring-boot-autoconfiguration/)
 * [component scanning](https://www.springboottutorial.com/spring-boot-and-component-scan)
 * [JavaConfig](https://docs.spring.io/spring-javaconfig/docs/1.0.0.M4/reference/html/ch02s02.html)
-# [@ConfigurationProperties](https://www.baeldung.com/configuration-properties-in-spring-boot)
+* [@ConfigurationProperties](https://www.baeldung.com/configuration-properties-in-spring-boot)
 
 ## Using multiple WebSecurityConfigurerAdapter with different AuthenticationProviders
 
@@ -59,4 +60,4 @@ Which developer still needs CI/CD pipelines for doing his integration and delive
 * [Java Config](https://docs.spring.io/spring-security/site/docs/current/reference/html/jc.html)
 * [Multiple Entry Points in Spring ](https://www.baeldung.com/spring-security-multiple-entry-points)
 * [Spring Security and Multiple Filter Chains](http://blog.florian-hopf.de/2017/08/spring-security.html)
-# [Spring Security for a REST API](https://www.baeldung.com/securing-a-restful-web-service-with-spring-security)
+* [Spring Security for a REST API](https://www.baeldung.com/securing-a-restful-web-service-with-spring-security)
