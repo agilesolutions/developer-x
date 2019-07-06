@@ -54,6 +54,7 @@ Which developer still needs CI/CD pipelines for doing his integration and delive
 * [component scanning](https://www.springboottutorial.com/spring-boot-and-component-scan)
 * [JavaConfig](https://docs.spring.io/spring-javaconfig/docs/1.0.0.M4/reference/html/ch02s02.html)
 * [@ConfigurationProperties](https://www.baeldung.com/configuration-properties-in-spring-boot)
+* [Spring and SPNEGO](https://www.baeldung.com/spring-security-kerberos)
 
 ## Using multiple WebSecurityConfigurerAdapter with different AuthenticationProviders
 
