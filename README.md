@@ -73,3 +73,14 @@ Which developer still needs CI/CD pipelines for doing his integration and delive
 * [Microservices with Spring Boot — Intro to Microservices 4](https://medium.com/@arjunac009/spring-boot-microservice-with-centralized-authentication-zuul-eureka-jwt-5719e05fde29)
 * [Using JWT with Spring Security OAuth](https://www.baeldung.com/spring-security-oauth-jwt)
 * [Spring Boot Security + JSON Web Token](https://dzone.com/articles/spring-boot-security-json-web-tokenjwt-hello-world)
+
+## Opentracing and Spring Boot
+
+* [open tracing io](https://opentracing.io/)
+* [jager io](https://www.jaegertracing.io/)
+* [thenewstack on opentracing](https://thenewstack.io/opentracing-open-standard-distributed-tracing/)
+* [OpenTracing Spring Boot Instrumentation](https://dzone.com/articles/opentracing-spring-boot-instrumentation)
+* [OpenTracing: An Open Standard for Distributed Tracing](https://dzone.com/articles/opentracing-an-open-standard-for-distributed-traci)
+* [OpenTracing Has Caught the Attention of the APM World](https://dzone.com/articles/opentracing-has-caught-the-attention-of-the-apm-wo)
+* [Using OpenTracing to Collect Application Metrics in Kubernetes](https://dzone.com/articles/using-opentracing-to-collect-application-metrics-i-1)
+
