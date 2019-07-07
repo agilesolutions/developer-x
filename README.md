@@ -83,4 +83,5 @@ Which developer still needs CI/CD pipelines for doing his integration and delive
 * [OpenTracing: An Open Standard for Distributed Tracing](https://dzone.com/articles/opentracing-an-open-standard-for-distributed-traci)
 * [OpenTracing Has Caught the Attention of the APM World](https://dzone.com/articles/opentracing-has-caught-the-attention-of-the-apm-wo)
 * [Using OpenTracing to Collect Application Metrics in Kubernetes](https://dzone.com/articles/using-opentracing-to-collect-application-metrics-i-1)
+* [Spring Boot opentracing and ISTIO](https://medium.com/jaegertracing/using-opentracing-with-istio-envoy-d8a4246bdc15)
 
