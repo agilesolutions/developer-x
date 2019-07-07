@@ -64,3 +64,9 @@ Which developer still needs CI/CD pipelines for doing his integration and delive
 * [Multiple Entry Points in Spring ](https://www.baeldung.com/spring-security-multiple-entry-points)
 * [Spring Security and Multiple Filter Chains](http://blog.florian-hopf.de/2017/08/spring-security.html)
 * [Spring Security for a REST API](https://www.baeldung.com/securing-a-restful-web-service-with-spring-security)
+
+## Spring Boot and JWT
+
+* [Microservices with Spring Boot — Intro to Microservices](https://medium.com/omarelgabrys-blog/microservices-with-spring-boot-intro-to-microservices-part-1-c0d24cd422c3)
+* [Using JWT with Spring Security OAuth](https://www.baeldung.com/spring-security-oauth-jwt)
+* [Spring Boot Security + JSON Web Token](https://dzone.com/articles/spring-boot-security-json-web-tokenjwt-hello-world)
