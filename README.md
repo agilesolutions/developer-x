@@ -11,6 +11,17 @@ Which developer still needs CI/CD pipelines for doing his integration and delive
 * share you image with the test community to be spinned of on a k8s cluster
 * dome
 
+## Running JIB 
+
+* mvn compile jib:build
+* mvn compile job:buildTar
+* [Containerize your Java application](https://github.com/GoogleContainerTools/jib)
+
+## Skaffold dev
+
+* skaffold dev
+* [Faster Feedback for Delivery Pipelines with Skaffold](https://www.liatrio.com/blog/delivery-pipelines-with-skaffold)
+
 ## Running CI/CD with multi-stage Docker buildfiles
 
 * Goto [Play with Docker ](https://labs.play-with-docker.com/)
@@ -67,10 +78,10 @@ Which developer still needs CI/CD pipelines for doing his integration and delive
 
 ## Spring Boot and JWT
 
-* [Microservices with Spring Boot — Intro to Microservices 1](https://medium.com/omarelgabrys-blog/microservices-with-spring-boot-intro-to-microservices-part-1-c0d24cd422c3)
-* [Microservices with Spring Boot — Intro to Microservices 2](https://medium.com/omarelgabrys-blog/microservices-with-spring-boot-creating-our-microserivces-gateway-part-2-31f8aa6b215b)
-* [Microservices with Spring Boot — Intro to Microservices 3](https://medium.com/omarelgabrys-blog/microservices-with-spring-boot-authentication-with-jwt-part-3-fafc9d7187e8)
-* [Microservices with Spring Boot — Intro to Microservices 4](https://medium.com/@arjunac009/spring-boot-microservice-with-centralized-authentication-zuul-eureka-jwt-5719e05fde29)
+* [Microservices with Spring Boot ï¿½ Intro to Microservices 1](https://medium.com/omarelgabrys-blog/microservices-with-spring-boot-intro-to-microservices-part-1-c0d24cd422c3)
+* [Microservices with Spring Boot ï¿½ Intro to Microservices 2](https://medium.com/omarelgabrys-blog/microservices-with-spring-boot-creating-our-microserivces-gateway-part-2-31f8aa6b215b)
+* [Microservices with Spring Boot ï¿½ Intro to Microservices 3](https://medium.com/omarelgabrys-blog/microservices-with-spring-boot-authentication-with-jwt-part-3-fafc9d7187e8)
+* [Microservices with Spring Boot ï¿½ Intro to Microservices 4](https://medium.com/@arjunac009/spring-boot-microservice-with-centralized-authentication-zuul-eureka-jwt-5719e05fde29)
 * [Using JWT with Spring Security OAuth](https://www.baeldung.com/spring-security-oauth-jwt)
 * [Spring Boot Security + JSON Web Token](https://dzone.com/articles/spring-boot-security-json-web-tokenjwt-hello-world)
 
