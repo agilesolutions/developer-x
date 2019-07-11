@@ -3,6 +3,7 @@ kind: Config
 build:
   artifacts:
   - image: agilesolutions/skaffold-example
+  jibMaven: {}
 # not on windows read https://skaffold.dev/docs/how-tos/testers/
 #test:
 #  - image: agilesolutions/skaffold-example
