@@ -16,6 +16,7 @@ Which developer still needs CI/CD pipelines for doing his integration and delive
 * kubectl config get-contexts
 * kubectl config use-context docker-for-desktop
 * [Configure Access to Multiple Clusters](https://kubernetes.io/docs/tasks/access-application-cluster/configure-access-multiple-clusters/)
+* [NGINX Ingress Controller](https://kubernetes.io/docs/tasks/access-application-cluster/ingress-minikube/)
 " [k8s ingresses](https://kubernetes.io/docs/concepts/services-networking/ingress/)
 * mvn compile jib:build
 * mvn compile job:buildTar
