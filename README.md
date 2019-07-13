@@ -13,6 +13,9 @@ Which developer still needs CI/CD pipelines for doing his integration and delive
 
 ## Running JIB 
 
+* kubectl config get-contexts
+* kubectl config use-context docker-for-desktop
+* [Configure Access to Multiple Clusters](https://kubernetes.io/docs/tasks/access-application-cluster/configure-access-multiple-clusters/)
 * mvn compile jib:build
 * mvn compile job:buildTar
 * [Containerize your Java application](https://github.com/GoogleContainerTools/jib)
