@@ -3,6 +3,7 @@ apiVersion: extensions/v1beta1
 kind: Ingress
 metadata:
   name: "{{ .Chart.Name }}"
+  namespace: "{{  .Chart.Name }}"
   labels:
     chart: '{{ .Chart.Name }}-{{ .Chart.Version | replace "+" "_" }}'
   {{- with .Values.ingress.annotations }}

@@ -1,5 +1,5 @@
 insert into person
-values('rob', 'forever');
+values(1,'rob', 'forever');
 
 insert into person
-values('dude', 'juke');
+values(2,'dude', 'juke');

@@ -19,6 +19,7 @@ Which developer still needs CI/CD pipelines for doing his integration and delive
 * mvn compile jib:build
 * mvn compile job:buildTar
 * [Containerize your Java application](https://github.com/GoogleContainerTools/jib)
+* [Checkout the SpringBoot maven archetypes](https://github.com/sivalabs)
 
 ## Skaffold dev
 
