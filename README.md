@@ -1,7 +1,7 @@
 # Developer x
 Which developer still needs CI/CD pipelines for doing his integration and delivery work?
 
-[Docker multi-stage builds](https://docs.docker.com/develop/develop-images/multistage-build/) solves all your problems. 
+* [Docker multi-stage builds](https://docs.docker.com/develop/develop-images/multistage-build/) solves all your problems. 
 
 * create a feature branch
 * check out your branch
