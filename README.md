@@ -81,6 +81,9 @@ Which developer still needs CI/CD pipelines for doing his integration and delive
 ## Security User Detail Service
 * [Spring Boot 2.0 DZone](https://dzone.com/articles/spring-security-with-spring-boot-20-userdetailsser)
 * [A simple JPA user detail service](https://github.com/scratches/jpa-method-security-sample/blob/master/src/main/java/demo/Application.java)
+* [Spring Security Architecture](https://spring.io/guides/topicals/spring-security-architecture)
+* [Spring Security Authentication Provider](https://www.baeldung.com/spring-security-authentication-provider)
+* [Multiple Authentication Providers in Spring Security](https://www.baeldung.com/spring-security-multiple-auth-providers)
 
 ## Using multiple WebSecurityConfigurerAdapter with different AuthenticationProviders
 
