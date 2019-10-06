@@ -73,6 +73,11 @@ Which developer still needs CI/CD pipelines for doing his integration and delive
 * [@ConfigurationProperties](https://www.baeldung.com/configuration-properties-in-spring-boot)
 * [Spring and SPNEGO](https://www.baeldung.com/spring-security-kerberos)
 
+## Best practices must read !!!!
+* [Part 1](https://medium.com/the-resonant-web/spring-boot-2-0-starter-kit-part-1-23ddff0c7da2)
+* [Part 2](https://medium.com/the-resonant-web/spring-boot-2-0-project-structure-and-best-practices-part-2-7137bdcba7d3)
+* [The sources](https://github.com/khandelwal-arpit/springboot-starterkit)
+
 ## Using multiple WebSecurityConfigurerAdapter with different AuthenticationProviders
 
 * [Using multiple WebSecurityConfigurerAdapter with different AuthenticationProviders (basic auth for API and LDAP for web app)](https://stackoverflow.com/questions/40258583/using-multiple-websecurityconfigureradapter-with-different-authenticationprovide)
