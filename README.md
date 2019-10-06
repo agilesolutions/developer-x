@@ -78,6 +78,10 @@ Which developer still needs CI/CD pipelines for doing his integration and delive
 * [Part 2](https://medium.com/the-resonant-web/spring-boot-2-0-project-structure-and-best-practices-part-2-7137bdcba7d3)
 * [The sources](https://github.com/khandelwal-arpit/springboot-starterkit)
 
+## Security User Detail Service
+* [Spring Boot 2.0 DZone](https://dzone.com/articles/spring-security-with-spring-boot-20-userdetailsser)
+* [A simple JPA user detail service](https://github.com/scratches/jpa-method-security-sample/blob/master/src/main/java/demo/Application.java)
+
 ## Using multiple WebSecurityConfigurerAdapter with different AuthenticationProviders
 
 * [Using multiple WebSecurityConfigurerAdapter with different AuthenticationProviders (basic auth for API and LDAP for web app)](https://stackoverflow.com/questions/40258583/using-multiple-websecurityconfigureradapter-with-different-authenticationprovide)
